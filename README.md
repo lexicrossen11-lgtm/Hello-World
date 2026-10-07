@@ -94,6 +94,12 @@ Through these assignments, I have developed a stronger understanding of how Pyth
 
 My earlier coursework focused on developing programming logic and understanding Python fundamentals. My more recent coursework has expanded those skills into working with larger datasets, using pandas, filtering information, and transforming data for analysis.
 
+## Additional Information
+
+These files represent coursework completed at different points in my Business Analytics and Information Systems studies. They show my progression from introductory Python programming to using pandas and Jupyter Notebook for data wrangling and analysis.
+
+This repository will continue to serve as a place to organize and showcase examples of my technical coursework.
+
 ---
 
 ### Thanks for viewing my repository!
